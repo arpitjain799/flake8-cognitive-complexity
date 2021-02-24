@@ -47,7 +47,6 @@ Tested on Python 3.7.x and flake8 3.7.8.
 |:----------:|:----------------------------------------:|
 |   CCR001   | Cognitive complexity is too high (X > Y) |
 
-
 ## Contributing
 
 We would love you to contribute to our project. It's simple:
